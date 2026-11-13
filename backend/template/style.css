@@ -1,0 +1,128 @@
+/* Bootstrap customizations */
+h1 {
+    color: #2c3e50;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.border-bottom {
+    border-bottom: 3px solid #007bff;
+}
+
+h2, h3, h4, h5, h6 {
+    color: #2c3e50;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.card {
+    border: none;
+    margin-bottom: 1.5rem;
+}
+
+.card-body {
+    padding: 1rem;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+body {
+    background-color: #f8f9fa;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    color: #333;
+}
+
+.filler-line {
+    display: inline-block;
+    max-width: 100%;
+    border-bottom: 1.5px solid #000000;
+}
+
+.filler-line-transparent {
+    display: inline-block;
+    max-width: 100%;
+    border-bottom: 1.5px solid transparent;
+}
+
+@page {
+    size: A4;
+    margin: 0.5cm;
+}
+
+@page :first {
+    margin-top: 1cm;
+}
+
+@media print {
+    .no-print, nav, footer, .button-download {
+        display: none !important;
+    }
+
+    .card, table {
+        break-inside: avoid;
+        page-break-inside: avoid;
+        background: transparent;
+        border: 0;
+        box-shadow: none !important;
+    }
+
+    .page-break {
+        break-before: page;
+        page-break-before: always;
+    }
+
+    body {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+        background: white;
+    }
+
+    .container {
+        max-width: 100% !important;
+    }
+
+    .card-body {
+        padding: 0;
+    }
+
+    .questao-resposta p {
+        margin-bottom: 0.25rem;
+    }
+}
+
+
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.rectangle {
+    border: 1px solid #000000;
+    margin: 0.5rem 0;
+    background: transparent;
+}
+
+.box-shadow {
+    border: 2px solid #252525;
+    box-shadow: 2px 2px #252525;
+    font-weight: bold;
+}
+
+.btn-primary:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+}
