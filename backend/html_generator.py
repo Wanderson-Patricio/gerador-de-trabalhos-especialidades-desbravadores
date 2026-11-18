@@ -21,7 +21,7 @@ class QuestaoRespostaHTMLGenerator:
     def generate_html(self) -> str:
         return f"""
         <div class="questao-resposta">
-            <p>{f"Questão {self.indice}".strip() if isinstance(self.indice, int) else self.indice}. {self.questao.texto}</p>
+            <p>{f"<strong>Questão {self.indice}".strip() if isinstance(self.indice, int) else self.indice}</strong>. {self.questao.texto}</p>
             {"".join([f"<p>{LineGenerator.generate_line(20)}</p>"] * self.questao.numero_linhas)}
             {"".join([f"<p>{LineGenerator.generate_line(20, transparente=True)}</p>"] * (self.questao.numero_linhas_transparentes or 0))}
         </div>
@@ -44,7 +44,7 @@ class QuestaoDesenhoHTMLGenerator:
     def generate_html(self) -> str:
         return f"""
         <div class="questao-desenho">
-            <p>{f"Questão {self.indice}".strip() if isinstance(self.indice, int) else self.indice}. {self.questao.texto}</p>
+            <p>{f"<strong>Questão {self.indice}".strip() if isinstance(self.indice, int) else self.indice}</strong>. {self.questao.texto}</p>
             <div class="center">
                 {RectangleHTMLGenerator(self.questao.dimensoes.largura, self.questao.dimensoes.altura).generate_html()}
             </div>
@@ -61,7 +61,7 @@ class QuestaoGridHTMLGenerator:
     def generate_html(self) -> str:
         return f"""
         <div class="questao-grid">
-            <p>{f"Questão {self.indice}".strip() if isinstance(self.indice, int) else self.indice}. {self.questao.texto}</p>
+            <p>{f"<strong>Questão {self.indice}".strip() if isinstance(self.indice, int) else self.indice}</strong>. {self.questao.texto}</p>
             <div class="center">
                 <table>
                     {"".join([
@@ -96,7 +96,7 @@ class QuestaoAlternativaHTMLGenerator:
         
         html = f"""
         <div class="questao-alternativa">
-            <p>{f"Questão {self.indice}".strip() if isinstance(self.indice, int) else self.indice}. {self.questao.texto}</p>
+            <p>{f"<strong>Questão {self.indice}".strip() if isinstance(self.indice, int) else self.indice}</strong>. {self.questao.texto}</p>
             <ul>
                 {alternativas_html}
             </ul>

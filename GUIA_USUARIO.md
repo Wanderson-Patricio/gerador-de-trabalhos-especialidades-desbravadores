@@ -10,7 +10,7 @@ O **Gerador de Especialidades** é uma aplicação que permite consultar, visual
 
 ### Passo 1: Executar a Aplicação
 
-1. **No Windows**: Clique duas vezes no arquivo `start.bat`
+1. **No Windows**: Clique duas vezes no arquivo `inicializar.bat`
 2. **Via linha de comando**: Na pasta do projeto, execute:
    ```
    python main.py
@@ -153,6 +153,7 @@ R: Verifique se você selecionou corretamente:
 Se nada aparecer, tente reiniciar a aplicação. Caso nada funcione, entre em contato com o desenvolvedor do projeto.
 
 **P: Como saber se a minha versão do banco de dados está atualizada?**
+
 R: Verifique no repositório do GitHub do projeto se há alguma versão superior a que está salva na sua aplicação.
 A base de dados é salva na pasta ***/data*** na pasta raíz da aplicação. Cada versão está em uma pasta própria, identificada pelo número da versão. Ex: ***/v1***, ***/v2***
 

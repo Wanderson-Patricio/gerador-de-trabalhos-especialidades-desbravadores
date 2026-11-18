@@ -6,7 +6,7 @@ class Color(StrEnum):
     OPTION_MENU_COLOR = "#BACEDB"
     BUTTON_COLOR = "#1A1A1A"
     BUTTON_HOVER_COLOR = "#1DF3F3"
-    RED = "#D91807"
+    RED = "#FF0000"
     YELLOW = "#F2B705"
     GOLD = "#967001"
     ORANGE = "#F28705"

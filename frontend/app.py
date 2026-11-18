@@ -6,6 +6,8 @@ from .style import Color, Font, AnchorPosition, JustifyPosition
 from .config import DimensionConfig, StyleConfig, TagConfig
 from .widgets import *
 
+from update_db_version import default_updater
+
 from typing import Any
 from tkinter import Button, Tk
 
@@ -47,12 +49,22 @@ class App(Tk):
         )
 
 
-        self.title_label = LabelGenerator.generate(
-            self.option_frame,
-            dimensions=DimensionConfig(relwidth=1.0),
-            style=StyleConfig(background=Color.APP_BACKGROUND, foreground=Color.YELLOW, font=Font.TITLE_LARGE),
-            text="Gerador de Especialidades"
-        )
+        updater = default_updater()
+        if updater.is_outdated():
+            self.title_label = LabelGenerator.generate(
+                self.option_frame,
+                dimensions=DimensionConfig(relwidth=1.0),
+                style=StyleConfig(background=Color.APP_BACKGROUND, foreground=Color.RED, font=Font.SUBTITLE_MEDIUM),
+                text="Há uma nova versão do banco de dados disponível.\nExecute o arquivo `atualizar_base_de_dados.bat` e atualize a sua base de dados."
+            )
+        else:
+            self.title_label = LabelGenerator.generate(
+                self.option_frame,
+                dimensions=DimensionConfig(relwidth=1.0, relheight=0.2),
+                style=StyleConfig(background=Color.APP_BACKGROUND, foreground=Color.YELLOW, font=Font.TITLE_LARGE),
+                text="Gerador de Especialidades"
+            )
+
 
         self.db_version_label = LabelGenerator.generate(
             self.option_frame,

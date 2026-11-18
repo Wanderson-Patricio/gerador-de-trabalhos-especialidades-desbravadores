@@ -1,0 +1,589 @@
+# Especialidades
+Escritas: 24
+Faltam escrever: 531
+
+## AD
+
+- [x] 001 - Alívio da Fome
+- [x] 002 - Avaliação da Comunidade
+- [x] 003 - Serviço Comunitário
+- [x] 004 - Resposta a Emergências e Desastres
+- [x] 005 - Resposta a Emergências e Desastres - avançado
+- [x] 006 - Alfabetização
+- [x] 007 - Resolução de Conflitos
+- [x] 008 - Reassentamento de Refugiados
+- [x] 009 - Desenvolvimento Comunitário
+
+## HM
+
+- [ ] 001 - Automodelismo
+- [ ] 002 - Trabalhos com Agulha
+- [ ] 003 - Desenho e Pintura
+- [ ] 004 - Música - básico
+- [ ] 005 - Música - intermediário
+- [ ] 006 - Música - avançado
+- [ ] 007 - Letreiros e Cartazes
+- [ ] 008 - Cestaria
+- [ ] 009 - Trabalhos em Metal
+- [ ] 010 - Arte de Oleiro
+- [ ] 011 - Entalhe em Madeira
+- [ ] 012 - Ornamentação com Flores
+- [ ] 013 - Pintura em Vidro
+- [ ] 014 - Tecelagem
+- [ ] 015 - Trabalhos em Madeira
+- [ ] 016 - Aeromodelismo
+- [ ] 017 - Cultura Indígena
+- [ ] 018 - Escultura
+- [ ] 019 - Xilogravura
+- [ ] 020 - Cerâmica
+- [ ] 021 - Pintura em Tecido
+- [ ] 022 - Trabalhos em Feltro
+- [ ] 023 - Trabalhos em Acrílico
+- [ ] 024 - Modelagem e Fabricação de Sabão
+- [ ] 025 - Modelagem e Fabricação de Sabão - avançado
+- [ ] 026 - Arte de Fazer Esteiras
+- [ ] 027 - Construção Nativa
+- [ ] 028 - Ferreomodelismo
+- [ ] 029 - Herança Cultural
+- [ ] 030 - Lapidação
+- [ ] 031 - Modelagem em Gesso
+- [ ] 032 - Trabalhos em Couro
+- [ ] 033 - Crochê
+- [ ] 034 - Crochê - avançado
+- [ ] 035 - Espaçomodelismo
+- [ ] 036 - Espaçomodelismo - avançado
+- [ ] 037 - Tricô
+- [ ] 038 - Tricô - avançado
+- [ ] 039 - Trabalhos em Vidro
+- [ ] 040 - Arte de Trançar
+- [ ] 041 - Arte de Trançar - avançado
+- [ ] 042 - Decoração de Bolos
+- [ ] 043 - Esmaltado em Cobre
+- [ ] 044 - Esmaltado em Cobre - avançado
+- [ ] 045 - Estofamento
+- [ ] 046 - Fabricação de Velas
+- [ ] 047 - Serigrafia
+- [ ] 048 - Serigrafia - avançado
+- [ ] 049 - Arte com Barbante
+- [ ] 050 - Decoupage
+- [ ] 051 - Macramê
+- [ ] 052 - Telhados
+- [ ] 053 - Cultura Indígena - avançado
+- [ ] 054 - Bordado em Ponto Cruz
+- [ ] 055 - Biscuit
+- [ ] 056 - Patchwork
+- [ ] 057 - Nautimodelismo
+- [ ] 058 - Trabalhos em Couro - avançado
+- [ ] 059 - Gravuras em Vidro
+- [ ] 060 - Origami
+- [ ] 061 - Corrida de Carrinhos de Madeira
+- [ ] 062 - Corrida de Carrinhos de Madeira - avançado
+- [ ] 063 - Scrapbooking
+- [ ] 064 - Scrapbooking - avançado
+- [ ] 065 - Fotografia Digital
+- [ ] 066 - Genealogia
+- [ ] 067 - Plástico Canvas
+- [ ] 068 - Quilling
+- [ ] 069 - Quilling - avançado
+- [ ] 070 - Tie-dye
+- [ ] 071 - Apitos
+- [ ] 072 - Apitos - avançado
+- [ ] 073 - Faróis
+- [ ] 074 - Faróis - avançado
+- [ ] 075 - Balões de Ar Quente
+- [ ] 076 - Origami - avançado
+- [ ] 077 - Embalagem
+- [ ] 078 - E.V.A.
+- [ ] 079 - Desenho vetorial
+- [ ] 080 - Fuxico
+- [ ] 081 - História em Quadrinhos
+- [ ] 082 - Ornamentação
+- [ ] 083 - Papercraft
+- [ ] 084 - Papel Machê
+- [ ] 085 - Pirografia
+- [ ] 086 - Plastimodelismo
+- [ ] 087 - Violão
+- [ ] 088 - Violão - avançado
+- [ ] 089 - Amigurumi
+- [ ] 090 - Arte Digital
+- [ ] 091 - Lettering
+
+## AA
+
+- [ ] 001 - Avicultura
+- [ ] 002 - Jardinagem e Horticultura
+- [ ] 003 - Agricultura Familiar de Subsistência
+- [ ] 004 - Apicultura
+- [ ] 005 - Agricultura
+- [ ] 006 - Pescaria
+- [ ] 007 - Criação de Gado Leiteiro
+- [ ] 008 - Pomicultura
+- [ ] 009 - Pomicultura II - Frutas Pequenas
+- [ ] 010 - Floricultura
+- [ ] 011 - Criação de Cavalos
+- [ ] 012 - Criação de Pombos
+- [ ] 013 - Criação de Ovelhas
+- [ ] 014 - Pecuária
+- [ ] 015 - Criação de Cabras
+- [ ] 016 - Paisagismo
+
+## AM
+
+- [ ] 001 - Arte de Contar Histórias Cristãs
+- [ ] 002 - Arte em Fantoches
+- [ ] 003 - Arte em Fantoches - avançado
+- [ ] 004 - Etnologia Missionária
+- [ ] 005 - Colportagem
+- [ ] 006 - Cidadania Cristã
+- [ ] 007 - Estudo de Línguas - Avançado
+- [ ] 008 - Evangelismo Pessoal
+- [ ] 009 - Liderança Juvenil
+- [ ] 010 - Testemunho Juvenil
+- [ ] 011 - Asseio e Cortesia Cristã
+- [ ] 012 - Vida Familiar
+- [ ] 013 - Temperança
+- [ ] 014 - Língua de Sinais
+- [ ] 016 - Aventuras com Cristo
+- [ ] 017 - Aventuras com Cristo - avançado
+- [ ] 018 - Língua de Sinais - avançado
+- [ ] 019 - Marcação Bíblica
+- [ ] 020 - Marcação Bíblica - avançado
+- [ ] 021 - Pregador Evangelista
+- [ ] 022 - Pregador Evangelista - avançado
+- [ ] 023 - Santuário
+- [ ] 024 - Dramatização Cristã
+- [ ] 025 - Desfile com Carros Alegóricos
+- [ ] 026 - Desfile com Carros Alegóricos - avançado
+- [x] 027 - Pacificador
+- [ ] 028 - Pacificador - avançado
+- [ ] 029 - Adoração Cristã
+- [ ] 030 - Arte da Pregação Cristã
+- [ ] 031 - Arte da Pregação Cristã - avançado
+- [ ] 032 - Arqueologia Bíblica
+- [ ] 033 - Cerimônias
+- [ ] 034 - Braile
+- [ ] 035 - Criacionismo
+- [ ] 036 - Criacionismo - avançado
+- [ ] 037 - Espírito de Profecia
+- [ ] 038 - Escatologia
+- [ ] 039 - Historiador Eclesiástico
+- [ ] 040 - Evangelismo Web
+- [ ] 041 - Evangelismo Web - avançado
+- [ ] 042 - Intercessor
+- [ ] 043 - Pioneiros Adventistas
+- [ ] 044 - Patriotismo
+- [x] 045 - Sonoplastia
+- [x] 046 - Sonoplastia - Avançado
+- [ ] 047 - Investigador Bíblico I
+- [ ] 048 - Boa Conduta Escolar
+- [ ] 049 - Mensageira de Deus
+- [ ] 050 - Estudo de Línguas
+- [ ] 051 - Cultura Sul Americana
+- [x] 052 - Apocalipse
+- [ ] 053 - Crítico de Mídia
+- [x] 054 - Livro de Daniel
+- [ ] 055 - Educação Inclusiva
+- [ ] 056 - Inteligência Emocional
+- [ ] 057 - Interpretação Bíblica
+- [ ] 058 - Lives - Transmissão de Cultos Online
+- [ ] 059 - Parábolas de Jesus
+- [ ] 060 - Relacionamentos Saudáveis
+
+## EB
+
+- [ ] 001 - Escrituras Sagradas
+- [ ] 002 - Trindade
+- [ ] 003 - Deus Pai
+- [ ] 004 - Deus Filho
+- [ ] 005 - Deus Espírito Santo
+- [ ] 006 - Criação do Mundo
+- [ ] 007 - Natureza da Humanidade
+- [ ] 008 - Grande Conflito
+- [ ] 009 - Vida, morte e ressureição de Cristo
+- [ ] 010 - Experiência da Salvação
+- [ ] 011 - Crescimento em Cristo
+- [ ] 012 - Igreja
+- [ ] 013 - Remanescente e sua Missão
+- [ ] 014 - Unidade no Corpo de Cristo
+- [ ] 015 - Batismo
+- [ ] 016 - Ceia do Senhor
+- [ ] 017 - Dons e Ministérios Espirituais
+- [ ] 018 - Dom de Profecia
+- [ ] 019 - Lei de Deus
+- [ ] 020 - Sábado
+- [ ] 021 - Mordomia
+- [ ] 022 - Conduta Cristã
+- [ ] 023 - Matrimônio e Família
+- [ ] 024 - Ministério de Cristo no Santuário Celestial
+- [ ] 025 - Segunda Vinda de Cristo
+- [ ] 026 - Morte e Ressurreição
+- [ ] 027 - Milênio e Fim do Pecado
+- [ ] 028 - Nova Terra
+
+## AP
+
+- [ ] 001 - Conserto de Sapatos
+- [ ] 002 - Fotografia
+- [ ] 003 - Mecânica Automotiva
+- [ ] 004 - Radioamadorismo
+- [ ] 005 - Datilografia
+- [ ] 006 - Eletricidade
+- [ ] 007 - Carpintaria
+- [ ] 008 - Corte e Costura
+- [ ] 009 - Taquigrafia
+- [ ] 010 - Tipografia
+- [ ] 011 - Marcenaria
+- [ ] 012 - Encadernação
+- [ ] 013 - Alvenaria
+- [ ] 014 - Barbearia
+- [ ] 015 - Colocação de Papel de Parede
+- [ ] 016 - Contabilidade
+- [ ] 017 - Evangelismo
+- [ ] 018 - Hidráulica
+- [ ] 019 - Jornalismo
+- [ ] 020 - Ofício de Alfaiate
+- [ ] 021 - Pintura de Paredes Exteriores
+- [ ] 022 - Pintura de Paredes Interiores
+- [ ] 023 - Radioeletrônica
+- [ ] 024 - Magistério
+- [ ] 025 - Corte e Costura - avançado
+- [ ] 026 - Radioamadorismo - avançado
+- [ ] 027 - Mecânica Automotiva - avançado
+- [ ] 028 - Mecânica de Pequenos Motores
+- [ ] 029 - Cães - Cuidado e Treinamento
+- [ ] 030 - Serviço Rádio do Cidadão
+- [ ] 031 - Soldagem
+- [ ] 032 - Produção de Vídeo
+- [ ] 033 - Vendas
+- [ ] 034 - Internet
+- [ ] 035 - Internet - avançado
+- [ ] 036 - Silvicultura
+- [ ] 037 - Administração
+- [ ] 038 - Bandeiras Náuticas
+- [ ] 039 - Blogs
+- [ ] 040 - Biblioteconomia
+- [ ] 041 - Computação I - básico
+- [ ] 042 - Computação II - médio
+- [ ] 043 - Computação III - regular
+- [ ] 044 - Computação IV - avançado
+- [ ] 045 - Computação V - especialista
+- [ ] 046 - Código Semafórico
+- [ ] 047 - Código Morse
+- [ ] 048 - Cuidados e Manutenção de Violões
+- [ ] 049 - Desenvolvimento de Software
+- [ ] 050 - Eletrônica
+- [ ] 051 - Intérprete de Língua de Sinais
+- [ ] 052 - Informática Programável
+- [ ] 053 - Manutenção de Bicicletas
+- [ ] 054 - Marketing
+- [ ] 055 - Marketing - avançado
+- [ ] 056 - Modelagem Têxtil
+- [ ] 057 - Montagem e Manutenção de Computadores
+- [ ] 058 - Noções de Economia
+- [ ] 059 - Operação e Manutenção de Impressoras
+- [ ] 060 - Restauro e Conservação Documental
+- [ ] 061 - Secretariado
+- [ ] 062 - Torno Mecânico
+- [ ] 063 - Web Designer
+- [ ] 064 - Web Designer - avançado
+- [ ] 065 - Logística
+- [ ] 066 - Noções de Direito
+- [ ] 067 - Segurança Nas Redes Sociais
+- [ ] 068 - Segurança Contra Incêndios
+
+## AR
+
+- [ ] 001 - Arte de Acampar
+- [ ] 002 - Cultura Física
+- [ ] 003 - Natação Principiante I
+- [ ] 004 - Natação Principiante II
+- [ ] 005 - Natação Intermediário I
+- [ ] 006 - Natação Intermediário II
+- [ ] 007 - Natação - avançado
+- [ ] 008 - Salvamento de Afogados
+- [ ] 009 - Ciclismo
+- [ ] 010 - Excursionismo Pedestre
+- [ ] 011 - Filatelia
+- [ ] 012 - Filatelia - avançado
+- [ ] 013 - Esqui Downhill
+- [ ] 014 - Arco e Flecha
+- [ ] 015 - Caiaque
+- [ ] 016 - Canoagem
+- [ ] 017 - Numismática
+- [ ] 018 - Navegação
+- [ ] 019 - Vela
+- [ ] 020 - Fogueiras e Cozinha ao Ar Livre
+- [ ] 021 - Mapa e Bússola
+- [ ] 022 - Pioneirismo
+- [ ] 023 - Remo
+- [ ] 024 - Vida Silvestre
+- [ ] 025 - Equitação
+- [ ] 026 - Esqui Aquático
+- [ ] 027 - Esqui Aquático - avançado
+- [ ] 028 - Mergulho Livre
+- [ ] 029 - Salvamento de Afogados - avançado
+- [ ] 030 - Saltos Ornamentais
+- [ ] 031 - Mergulho Autônomo
+- [ ] 032 - Mergulho Autônomo - avançado
+- [ ] 033 - Acampamento em Baixas Temperaturas
+- [ ] 034 - Escalada
+- [ ] 035 - Escalada - avançado
+- [ ] 036 - Escalada em Árvores
+- [ ] 037 - Exploração de Cavernas
+- [ ] 038 - Exploração de Cavernas - avançado
+- [ ] 039 - Barco a Motor
+- [ ] 040 - Nós e Amarras
+- [ ] 041 - Arco e Flecha - avançado
+- [ ] 042 - Ciclismo - avançado
+- [ ] 043 - Ginástica Acrobática
+- [ ] 044 - Ginástica Acrobática - avançado
+- [ ] 045 - Liderança na Selva
+- [ ] 046 - Liderança na Selva - avançado
+- [ ] 047 - Ordem Unida
+- [ ] 048 - Ordem Unida - avançado
+- [ ] 049 - Atletismo
+- [x] 050 - Acampamento I
+- [x] 051 - Acampamento II
+- [x] 052 - Acampamento III
+- [x] 053 - Acampamento IV
+- [ ] 054 - Esqui Cross Country
+- [ ] 055 - Excursionismo Pedestre - avançado
+- [ ] 056 - Excursionismo Pedestre com Mochila
+- [x] 057 - Liderança Campestre
+- [ ] 058 - Liderança Campestre - avançado
+- [ ] 059 - Pipas
+- [ ] 060 - Skate
+- [ ] 061 - Windsurf
+- [ ] 062 - Numismática - avançado
+- [ ] 063 - Mountain Biking
+- [ ] 064 - Basquete
+- [ ] 065 - Futebol
+- [ ] 066 - Equitação - avançado
+- [ ] 067 - Geocaching
+- [ ] 068 - Geocaching - avançado
+- [ ] 069 - Construção de Canoas
+- [ ] 070 - Cozinha com Forno Holandês
+- [ ] 071 - Fanfarra
+- [ ] 072 - Rapel
+- [ ] 073 - Rapel - avançado
+- [ ] 074 - Rapel - instrutor
+- [ ] 075 - Triathlon
+- [ ] 076 - Triathlon - avançado
+- [ ] 077 - Telecartofilia
+- [ ] 078 - Telecartofilia - avançado
+- [ ] 079 - Wakeboard
+- [ ] 080 - Softbol
+- [ ] 081 - Letterboxing
+- [ ] 082 - Letterboxing - avançado
+- [ ] 083 - Monociclo
+- [ ] 084 - Acampamento Seguro
+- [ ] 085 - Acampamento Seguro - avançado
+- [ ] 086 - Viagem e Turismo
+- [ ] 087 - Viagem e Turismo - avançado
+- [ ] 088 - Excursionismo Pedestre na Neve
+- [ ] 089 - Excursionismo Pedestre na Neve - avançado
+- [ ] 090 - Segurança Básica na Água
+- [ ] 091 - Boliche
+- [ ] 092 - Carrinho de Rolimã
+- [ ] 093 - Colecionador
+- [ ] 094 - Esportes Adaptados
+- [ ] 095 - Excursionismo Pedestre com Mochila - avançado
+- [ ] 096 - Futebol de Botão
+- [ ] 097 - Futsal
+- [ ] 098 - Handebol
+- [x] 099 - Nós e Amarras - Avançado
+- [ ] 100 - Ordem Unida - instrutor
+- [x] 101 - Pioneirias
+- [ ] 102 - Pioneirias - avançado
+- [ ] 103 - Patins
+- [ ] 104 - Orientação com GPS
+- [ ] 105 - Rafting
+- [ ] 106 - Pião
+- [ ] 107 - Tênis de Mesa
+- [ ] 108 - Vôlei
+- [ ] 109 - Waveboarding
+- [ ] 110 - Evolução em Ordem Unida
+- [ ] 111 - Campori Seguro
+- [ ] 112 - Acampamento Consciente
+- [ ] 113 - Artes Mateiras
+- [ ] 114 - Bolinha de Gude
+- [ ] 115 - Comida Mateira
+- [ ] 116 - Construções Rústicas de Grande Porte
+- [ ] 117 - Cozinha Segura
+- [x] 118 - Cubo Mágico
+- [ ] 119 - Slackline
+- [ ] 120 - Trilha de Sinais
+- [ ] 121 - Troca de Pins
+
+## CS
+
+- [ ] 001 - Saúde e Cura
+- [ ] 002 - Química
+- [ ] 003 - Primeiros Socorros - básico
+- [ ] 004 - Primeiros Socorros - intermediário
+- [ ] 005 - Primeiros Socorros - avançado
+- [ ] 006 - Enfermagem Básica
+- [ ] 007 - Ótica
+- [ ] 008 - Nutrição
+- [ ] 009 - Alerta Vermelho
+- [ ] 010 - Nutrição - avançado
+- [ ] 011 - Reanimação Cardiopulmonar
+- [ ] 012 - Resgate Básico
+- [ ] 013 - Física
+- [ ] 014 - Microscopia
+- [ ] 015 - Digestão
+- [ ] 016 - Ossos, Músculos e Articulações
+- [ ] 017 - Sistema Nervoso
+- [ ] 018 - Sangue e Defesas do Corpo
+- [ ] 019 - Hereditariedade
+- [ ] 020 - Coração e Circulação
+- [ ] 021 - Bioquímica
+- [ ] 022 - Bioquímica - avançado
+- [ ] 023 - Higiene Oral
+- [ ] 024 - Higiene Oral - avançado
+- [ ] 025 - Metodologia de Estudo
+- [ ] 026 - Prevenção de Doenças Tropicais
+- [ ] 027 - Patrimônio Histórico
+- [ ] 028 - Saúde Mental
+- [ ] 029 - Sexualidade Humana
+- [ ] 030 - Sistema Respiratório
+- [ ] 031 - Habilidades em Matemática I
+- [ ] 032 - Habilidades em Matemática II
+- [ ] 033 - Habilidades em Matemática III
+- [ ] 034 - Habilidades em Matemática IV
+- [ ] 035 - Biossegurança
+- [ ] 036 - Anatomia Humana Básica
+- [ ] 037 - Cientistas Cristãos
+- [ ] 038 - Experimentos Científicos
+- [ ] 039 - Plantas Medicinais
+- [ ] 040 - Remédios da Natureza
+- [ ] 041 - Trânsito Seguro
+- [ ] 042 - Vacinas
+- [ ] 043 - Zoonoses
+
+## EN
+
+- [ ] 001 - Aranhas
+- [ ] 002 - Astronomia
+- [ ] 003 - Aves
+- [ ] 004 - Aves Domésticas
+- [ ] 005 - Flores
+- [ ] 006 - Árvores
+- [ ] 007 - Insetos
+- [ ] 008 - Mariposas e Borboletas
+- [ ] 009 - Fungos
+- [ ] 010 - Mamíferos
+- [ ] 011 - Répteis
+- [ ] 012 - Rochas e minerais
+- [ ] 013 - Rochas e Minerais - avançado
+- [ ] 014 - Moluscos
+- [ ] 015 - Cactos
+- [ ] 016 - Climatologia
+- [ ] 017 - Fósseis
+- [ ] 018 - Samambaias
+- [ ] 019 - Arbustos
+- [ ] 020 - Aves de Estimação
+- [ ] 021 - Gramíneas
+- [ ] 022 - Peixes
+- [ ] 023 - Anfíbios
+- [ ] 024 - Felinos
+- [ ] 025 - Rebanhos Domésticos
+- [ ] 026 - Astronomia - avançado
+- [ ] 027 - Aves - avançado
+- [ ] 028 - Climatologia - avançado
+- [ ] 029 - Flores - avançado
+- [ ] 030 - Insetos - avançado
+- [ ] 031 - Mamíferos - avançado
+- [ ] 032 - Moluscos - avançado
+- [ ] 033 - Árvores - avançado
+- [ ] 034 - Cães
+- [ ] 035 - Areia
+- [ ] 036 - Algas
+- [ ] 037 - Cetáceos
+- [ ] 038 - Ervas
+- [ ] 039 - Eucaliptos
+- [ ] 040 - Sementes
+- [ ] 041 - Sementes - avançado
+- [ ] 042 - Orquídeas
+- [ ] 043 - Plantas Silvestres Comestíveis
+- [x] 044 - Ecologia
+- [ ] 045 - Ecologia - avançado
+- [ ] 046 - Conservação Ambiental
+- [ ] 047 - Geologia
+- [ ] 048 - Geologia - avançado
+- [ ] 049 - Plantas Caseiras
+- [ ] 050 - Rastreio de Animais
+- [ ] 051 - Mamíferos Marinhos
+- [ ] 052 - Pequenos Mamíferos de Estimação
+- [ ] 053 - Cactos - avançado
+- [ ] 054 - Anfíbios - avançado
+- [ ] 055 - Felinos - avançado
+- [ ] 056 - Rastreio de Animais - avançado
+- [ ] 057 - Répteis - avançado
+- [ ] 058 - Animais Ameaçados de Extinção
+- [ ] 059 - Morcegos
+- [ ] 060 - Morcegos - avançado
+- [ ] 061 - Marsupiais
+- [ ] 062 - Orquídeas - avançado
+- [ ] 063 - Palmeiras
+- [ ] 064 - Solos
+- [ ] 065 - Vermes
+- [ ] 066 - Vermes - avançado
+- [ ] 067 - Quedas d'água
+- [ ] 068 - Aquarismo
+- [ ] 069 - Animais Peçonhentos
+- [ ] 070 - Animais Noturnos
+- [ ] 071 - Animais Nocivos
+- [ ] 072 - Arbustos - avançado
+- [ ] 073 - Araras, Papagaios e Periquitos
+- [ ] 074 - Briófitas
+- [ ] 075 - Bactérias
+- [ ] 076 - Camelos
+- [ ] 077 - Citologia
+- [ ] 078 - Crustáceos
+- [ ] 079 - Dinossauros
+- [ ] 080 - Equinodermos
+- [ ] 081 - Energias Renováveis
+- [ ] 082 - Estuário
+- [ ] 083 - Fauna Marinha
+- [ ] 084 - Fisiologia Vegetal
+- [ ] 085 - Formigas
+- [ ] 086 - Liquens
+- [ ] 087 - Odonata
+- [ ] 088 - Plantas Carnívoras
+- [ ] 089 - Preservação de Recursos Hídricos
+- [ ] 090 - Poríferos e Cnidários
+- [ ] 091 - Protozoários
+- [ ] 092 - Reciclagem e Sustentabilidade
+- [ ] 093 - Reciclagem e Sustentabilidade - avançado
+- [ ] 094 - Tubarões
+- [ ] 095 - Vírus
+- [ ] 096 - Abelhas e Vespas
+- [ ] 097 - Animais Migratórios
+- [ ] 098 - Aves de Rapina
+- [ ] 099 - Ciência Planetária
+- [ ] 100 - Cigarras
+- [ ] 101 - Compostagem Doméstica
+- [ ] 102 - Mimetismo e Camuflagem
+- [ ] 103 - Peixes Ornamentais
+- [ ] 104 - Primatas
+- [ ] 105 - Quelônios
+- [ ] 106 - Vulcões
+- [ ] 107 - Bromélias
+
+## HD
+
+- [ ] 001 - Arte Culinária
+- [ ] 002 - Técnicas de Lavanderia
+- [ ] 003 - Cuidado de Bebês
+- [ ] 004 - Cuidados da Casa
+- [ ] 005 - Técnicas de Fazer Conserva
+- [x] 006 - Orçamento Familiar
+- [ ] 007 - Panificação
+- [ ] 008 - Arte Culinária - avançado
+- [ ] 009 - Costura Básica
+- [ ] 010 - Comidas Típicas
+- [ ] 011 - Congelamento de Alimentos
+- [ ] 012 - Desidratação de Alimentos
+- [ ] 013 - Produção de Pizza
+

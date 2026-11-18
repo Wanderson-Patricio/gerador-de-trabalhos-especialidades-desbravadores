@@ -24,20 +24,1207 @@ areas:
     codigo: EN
   - nome: Habilidades Domésticas
     codigo: HD
-  - nome: Mestrados
-    codigo: ME
-especialidades:
-  # Adra
 
+especialidades:
+  
+  # Adra
+  - area: AD
+    codigo: 1
+    nome: Alívio da Fome
+    questoes:
+      - texto: "Ler ou assistir um documentário ou uma matéria jornalística referente ao tema da fome no mundo e discutir com a sua unidade do Clube de Desbravadores as medidas que estão sendo tomados para reduzi-la e apontar como você, desbravador, pode contribuir para esse feito.<br>(<strong>Faça um relatório sobre como o conteúdo assistido alterou a sua visão sobre como pode contribuir para reduzir a fome no mundo. Indique o nome e o tipo do conteúdo assistido.</strong>)"
+        numero_linhas: 10
+      - texto: "Entrevistar uma pessoa que realiza distribuição de  alimentos em sua  comunidade. Pode ser o líder da ASA de sua igreja, de outra igreja, ou de um centro /  restaurante comunitário. Perguntar sobre que tipo de pessoas são atendidas, o que as levam a necessitarem de alimento e como essas necessidades estão sendo satisfeitas. Fazer anotações durante a entrevista e compartilhar os resultados com seu instrutor."
+        numero_linhas: 10
+      - texto: "Descrever as causas da fome em seu país. Você poderá fazer isso através de uma redação (com, pelo menos, 500 palavras), uma apresentação audiovisual (de, pelo menos, 10 minutos), uma encenação ou produzindo um vídeo de cerca de 1 minuto."
+        numero_linhas: 25
+        numero_linhas_transparentes: 10
+      - texto: "Fazer uma coleta de itens alimentícios para a ASA da sua igreja, de outra igreja, ou centro/restaurante comunitário ou, se isso não for possível, escolher uma família que precisa de assistência e lhe entregar os itens coletados.<br><ul><li><strong>Obs.:</strong>A sugestão é que sejam arrecadados pelo menos 50 alimentos não perecíveis. Deve-se prestar muita atenção ao prazo de validade dos produtos coletados. Produtos com prazo de validade expirado ou com indício de deterioração, como lata estufada, caruncho nas farinhas e feijões, mofo no arroz, etc., não devem ser coletados. Também devem ser levados em consideração os costumes de cada país ou região. Produtos desconhecidos ou que não fazem parte da alimentação do dia a dia tendem a ser mal utilizados ou não utilizados.</li></ul><div class='text-center'>(Cole uma foto da arrecadação de alimentos realizada)</div>"
+        dimensoes:
+          largura: 20
+          altura: 15
+        numero_linhas_transparentes: 5
+      - texto: "Visitar um banco de alimentos, um centro de distribuição de alimentos ou um restaurante ou cozinha comunitária e dispor-se como voluntário para ajudar o pessoal que trabalha no estabelecimento. Conversar com eles para saber como os alimentos são obtidos e quais são alguns dos desafios para consegui-los, armazená-los e distribuí-los. Caso não exista nenhum dos estabelecimentos acima descritos em sua região, planejar e auxiliar a ASA na arrecadação de alimentos.<div class='text-center'>(Cole uma foto da atividade realizada)</div>"
+        dimensoes:
+          largura: 20
+          altura: 15
+
+
+
+  - area: AD
+    codigo: 2
+    nome: Avaliação da Comunidade
+    questoes:
+      - texto: "Selecionar uma  comunidade ou área urbana com a qual esteja familiarizado e descrever, da melhor forma possível, as seguintes informações:"
+        alternativas:
+          - texto: Localização em um mapa físico ou digital;
+            numero_linhas: 2
+          - texto: Demografia (nº de habitantes, de preferência distribuídos por sexo e idade)
+            numero_linhas: 2
+          - texto: Condições socioeconômicas
+            numero_linhas: 2
+          - texto: Ocupações laborais mais comuns
+            numero_linhas: 2
+          - texto: Acesso à rede educacional e de saúde
+            numero_linhas: 3
+          - texto: Nível de  educação
+            numero_linhas: 2
+          - texto: Nível de segurança
+            numero_linhas: 2
+          - texto: Outros dados que achar relevantes
+            numero_linhas: 3
+      - texto: "Listar as necessidades que você vê em sua comunidade. Isso pode incluir melhor apoio a famílias de baixa renda, assistência a idosos que vivem sozinhos, melhora na limpeza das áreas públicas, etc."
+        numero_linhas: 8
+      - texto: "Entrevistar um líder comunitário, professor, pastor de igreja ou oficial de polícia para saber como pessoas como você poderiam exercer impacto positivo em tal comunidade ou área. Fazer anotações. (Indique o nome e a ocupação da pessoa entrevistada)"
+        numero_linhas: 12
+      - texto: "Preparar um relatório para o seu Clube de Desbravadores apresentando suas descobertas e descrever o que você aprendeu especificamente a respeito da comunidade ou área que escolheu. Seja criativo."
+        numero_linhas: 10
+      - texto: "Descrever as melhorias mais importantes necessárias à sua comunidade e o que você pode fazer para ajudar."
+        numero_linhas: 10
+
+
+  - area: AD
+    codigo: 3
+    nome: Serviço Comunitário
+    questoes:
+      - texto: "Ler os seguintes textos bíblicos e explicar o que eles ensinam a respeito do papel que Deus espera que cada cristão desempenhe para satisfazer as necessidades dos pobres e sofredores na  comunidade."
+        numero_linhas_transparentes: 5
+        alternativas:
+          - texto: "Isaías 58:3-12"
+            numero_linhas: 5
+          - texto: "Lucas 10: 25-37"
+            numero_linhas: 5
+          - texto: "Mateus 25:31-46"
+            numero_linhas: 5
+      - texto: "Explique o seguinte ao seu instrutor:"
+        alternativas:
+          - texto: "Qual é o significado do acrônimo ADRA? Apresentar uma breve explanação do que cada letra representa e explicar a diferença entre 'assistência' e 'desenvolvimento'."
+            numero_linhas: 10
+          - texto: "Qual o nome do  serviço social prestado pela Igreja Adventista do Sétimo Dia local que ajuda os pobres e necessitados em seu entorno. Que tipos de  serviços ele provê?"
+            numero_linhas: 10
+      - texto: "Reunir-se com o líder da Ação Solidária Adventista em sua área e perguntar a respeito dos projetos que sua unidade ou Clube de Desbravadores pode ajudar para satisfazer às necessidades da comunidade local."
+        numero_linhas: 10
+      - texto: "Realizar um projeto de serviço comunitário com a unidade ou Clube de Desbravadores e concluí-lo. Este projeto deve focar certas necessidades que sua comunidade apresenta."
+        dimensoes:
+          largura: 20
+          altura: 15
+
+
+
+  - area: AD
+    codigo: 4
+    nome: Resposta a Emergências e Desastres
+    questoes:
+      - texto: "Explicar os tipos de danos mais prováveis de ocorrer às casas, indivíduos e comunidades diante dos principais tipos de emergências e desastres e indicar em qual parte do mundo eles ocorrem com mais frequência. Você pode encontrar estas informações da Defesa Civil do seu Estado."
+        alternativas:
+          - texto: Ciclones (furacões e tufões)
+            numero_linhas: 3
+          - texto: Tornados
+            numero_linhas: 3
+          - texto: Inundações
+            numero_linhas: 3
+          - texto: Terremotos
+            numero_linhas: 3
+          - texto: Tsunamis
+            numero_linhas: 3
+          - texto: Incêndios
+            numero_linhas: 4
+          - texto: Guerras/conflitos ou  guerras civis
+            numero_linhas: 3
+      - texto: "Descrever os tipos de serviços prestados pela ADRA ou por outros órgãos de resposta a emergências e desastres locais aos sobreviventes de tais eventos em seu país."
+        numero_linhas: 8
+      - texto: "Ler um jornal ou notícias da ADRA referente a emergências e desastres recentes e discutir quais são algumas coisas importantes a se ter em mente ao responder a uma situação dessas."
+        numero_linhas: 10
+      - texto: "Explicar o que significa cada letra do acrônimo da ADRA e descreva o papel dela na resposta a emergências e desastres."
+        numero_linhas: 10
+      - texto: "Descrever, pelo menos, uma destas organizações de resposta a emergências e desastres e como ela pode trabalhar com a ADRA durante tais situações.<br><ol type='a'><li>Cruz Vermelha/Comitê Internacional da Cruz Vermelha (CICV)</li><li>Ação Solidária Adventista (ASA)</li><li>Alto Comissário das Nações Unidas para Refugiados - ACNUR</li><li>Programa Alimentar Mundial (PAM)</li></ol>"
+        numero_linhas: 10
+      - texto: "Explicar o papel do governo diante da ocorrência de uma emergência ou desastre e identificar a agência governamental chave em seu país que administra a resposta em tais situações."
+        numero_linhas: 8
+      - texto: "Descobrir na Bíblia um texto que possa ser usado para confortar e animar uma pessoa que experimentou perda total de sua casa, e dizer-lhe porque você escolheu esse texto?."
+        numero_linhas: 8
+
+
+
+  - area: AD
+    codigo: 5
+    nome: Resposta a Emergências e Desastres - avançado
+    questoes:
+      - texto: "Ter a especialidade de Nós e Amarras. (Cole o certificado da especialidade no quadro abaixo)"
+        dimensoes:
+          largura: 20
+          altura: 9
+      - texto: "Descrever as causas subjacentes de cada um desses cenários de desastres e dar um exemplo recente de, pelo menos, 6 desastres e seu impacto na comunidade ou país. Destacar, pelo menos, um no qual a ADRA respondeu."
+        alternativas:
+          - texto: Ciclones (furacões e tufões)
+            numero_linhas: 4
+          - texto: Tornados
+            numero_linhas: 4
+          - texto: Enchentes/Inundações
+            numero_linhas: 3
+          - texto: Secas
+            numero_linhas: 3
+          - texto: Tsunamis
+            numero_linhas: 3
+          - texto: Incêndios
+            numero_linhas: 3
+          - texto: Guerras/conflitos ou  guerras civis
+            numero_linhas: 3
+          - texto: Erupções vulcânicas.
+            numero_linhas: 3
+      - texto: "As 4 fases na gestão de emergências e desastres são: Prevenção / Mitigação, Preparo, Resposta e Recuperação. Em suas palavras, descrever para o seu instrutor o que cada um desses termos significa e porque são importantes."
+        numero_linhas: 11
+      - texto: "O preparo é chave para o sucesso em uma emergência ou desastre. Se você fosse construir um kit para tais circunstâncias, descrever para o seu instrutor quais itens seriam incluídos. Discutir as vantagens de escolher itens movidos à bateria e não à eletricidade, e alimentos não perecíveis em vez de perecíveis."
+        numero_linhas: 8
+      - texto: "Desenhar a planta do local onde você vive. Pensar no que faria em 3 dos desastres relacionadas no requisito 2. Traçar uma rota de fuga de sua casa e discuti-la com seu instrutor e família."
+        dimensoes:
+          largura: 20
+          altura: 15
+        numero_linhas_transparentes: 3
+      - texto: "Encontrar 3 histórias na Bíblia que envolveram  desastres naturais ou emergências políticas. Colocar-se no lugar das pessoas da história e descrever como esses eventos o afetariam. Discutir como as pessoas nas histórias sobreviveram a essas situações."
+        numero_linhas: 12
+      - texto: "Apresentar um breve relatório para o seu Clube de Desbravadores a respeito do que você aprendeu sobre emergências e desastres e de estar preparado para agir nessas circunstâncias. Você pode fazer uma apresentação, encenação, mostrar um breve vídeo ou outro método que melhor transmita o que você aprendeu.<br><div class='text-center'>(Cole no quadro abaixo a foto da atividade realizada ou escreva o relatório)</div>"
+        dimensoes:
+          largura: 20
+          altura: 12
+
+
+
+  - area: AD
+    codigo: 6
+    nome: Alfabetização
+    questoes:
+      - texto: "Definir o termo alfabetização."
+        numero_linhas: 3
+      - texto: "Quais são as principais diferenças existentes entre alfabetização e letramento?"
+        numero_linhas: 5
+      - texto: "Pesquisar e descrever com brevidade como 2 ou 3 organizações em sua comunidade ou país promovem a alfabetização ou proveem serviços de alfabetização a crianças e adultos."
+        numero_linhas: 10
+      - texto: "Escrever um parágrafo explicando porque a alfabetização é importante."
+        numero_linhas: 6
+      - texto: "Realizar 3 das seguintes atividades <ol type='a'><li>Ajudar alguém a ler um pequeno livro ou uma breve  história.</li><li>Com um grupo de crianças, ler uma história em grupo, e em seguida resolver as dificuldades de compreensão.</li><li>Fazer 10 cartelas de material pedagógico com palavras simples e ilustrações ou fotos e passá-las a alguém que esteja aprendendo a ler.</li><li>Ler vários capítulos da Bíblia para uma pessoa idosa que você saiba que é cega ou incapaz de ler. Isso pode ser feito em uma ou várias visitas.</li><li>Fazer uma apresentação de 5 minutos em sua escola, igreja ou Clube, sobre o que você aprendeu sobre alfabetização.</li></ol><br><div class=text-center>(Cole fotos das atividades realizadas nos quadros abaixo)</div>"
+        linhas: 2
+        colunas: 2
+        dimensoes:
+          largura: 10
+          altura: 9
+      - texto: "Escolher 3 palavras e explicar ao seu instrutor como você ensinaria alguém sobre o significado das palavras e como soletrá-las."
+        numero_linhas: 21
+
+
+
+  - area: AD
+    codigo: 7
+    nome: Resolução de Conflitos
+    questoes:
+      - texto: "O que é um conflito?"
+        numero_linhas: 5
+      - texto: "Citar um exemplo de conflito em cada uma das seguintes configurações:"
+        alternativas:
+          - texto: Uma família
+            numero_linhas: 2
+          - texto: Grupo de amigos
+            numero_linhas: 2
+          - texto: Escola
+            numero_linhas: 2
+          - texto: Entre bairros e comunidades
+            numero_linhas: 2
+          - texto: Países
+            numero_linhas: 2
+      - texto: "O que é resolução de conflitos?"
+        numero_linhas: 5
+      - texto: "Conversar com o seu instrutor ou conselheiro sobre 4 causas prováveis que podem levar a conflitos na escola ou no ambiente de trabalho."
+        numero_linhas: 8
+      - texto: "Procurar informação sobre formas alternativas de resolução de conflitos: negociação, mediação, conciliação e arbitragem. Explique com suas próprias palavras cada conceito e dar um exemplo da cada alternativa."
+        numero_linhas: 12
+      - texto: "Explicar em que consiste a dramatização como uma dinâmica útil na resolução de conflitos e quais podem ser seus benefícios. Dar um exemplo e representá-lo com sua unidade."
+        numero_linhas: 12
+      - texto: "O que significa ouvir atentamente?"
+        numero_linhas: 5
+      - texto: "Aplicar o seguinte método de resolução de conflito em um exemplo do item número 1.<ol type='a'><li>Montar o cenário</li><li>Reunir informações</li><li>Identificar o problema</li><li>Pensar nas soluções</li><li>Negociar uma solução</li></ol>"
+        numero_linhas: 10
+      - texto: "Explicar como fazer encaminhamento a um conselheiro profissional ou pastor."
+        numero_linhas: 7
+      - texto: "Que atitude Jesus recomenda em Mateus 18:15 para resolver um conflito entre seus seguidores?"
+        numero_linhas: 7
+      - texto: "Qual papel de Jesus Cristo no conflito entre o bem e o mal de acordo com I Timóteo 2:5 e 6?"
+        numero_linhas: 8
+      - texto: "Mencionar outro personagem bíblico que foi mediador entre autoridades e seu povo."
+        numero_linhas: 8
+
+
+
+  - area: AD
+    codigo: 8
+    nome: Reassentamento de Refugiados
+    questoes:
+      - texto: "Descrever algumas causas gerais porque as  pessoas se deslocam para outros países como refugiados. Definir também os termos refugiado, deslocado interno e imigrante."
+        numero_linhas: 12
+      - texto: "Listar as necessidades imediatas que um refugiado pode ter quando chega a um novo país. Descrever como você se sentiria se, subitamente, tivesse que enfrentar uma nova língua, cultura e ambiente."
+        numero_linhas: 12
+      - texto: "Descobrir que organizações em sua  comunidade, país ou no mundo ajudam os refugiados e deslocados internos. Pesquisar sobre o trabalho que eles realizam."
+        numero_linhas: 10
+      - texto: "Descrever em poucas palavras como você poderia ajudar um refugiado ou um deslocado interno em sua comunidade."
+        numero_linhas: 10
+      - texto: "Perguntar a uma pessoa de outro país, que vive em sua comunidade, como ela se ajustou ao novo ambiente. Pedir para que descreva os desafios e contrastes que experimentou durante o processo de adaptação à comunidade."
+        numero_linhas: 12
+      - texto: "Fazer um breve relatório para o seu Clube de Desbravadores, igreja, escola sobre o que você aprendeu sobre refugiados e deslocados internos e que desafios eles enfrentam. Você pode levar a efeito este requisito através de uma apresentação audiovisual, encenação, vídeo ou qualquer outra forma que melhor transmita suas descobertas. Discutir porque é importante estar atento à situação dos refugiados e tentar encontrar soluções para esse problema."
+        numero_linhas: 15
+      - texto: "Encontrar um refugiado e/ou deslocado interno e auxiliá-lo em parceria com a ASA local. Coloque foto e a descrição do auxílio prestado."
+        dimensoes:
+          largura: 20
+          altura: 10
+
+
+
+  - area: AD
+    codigo: 9
+    nome: Desenvolvimento Comunitário
+    questoes:
+      - texto: "Definir desenvolvimento comunitário."
+        numero_linhas: 7
+      - texto: "Explicar ao seu instrutor porque alguns países são considerados desenvolvidos enquanto outros são chamados de países em desenvolvimento."
+        numero_linhas: 7
+      - texto: "Mencionar 5 países em desenvolvimento e listar 3 ações que a ADRA realiza neles e que poderiam ser consideradas ações de desenvolvimento e 2 que se caracterizam como ações assistenciais."
+        numero_linhas: 8
+      - texto: "Ler a respeito de porque existem pobres entre nós no livro O Libertador ou Desejado de Todas as Nações, de Ellen G. White, capítulo 70 - 'Cristo se identifica com os pobres e sofredores'. Descrever ao seu instrutor o que você aprendeu."
+        numero_linhas: 15
+      - texto: "Descrever, pelo menos, uma necessidade em seu bairro ou município que requeira atenção."
+        numero_linhas: 5
+      - texto: "Escrever um breve plano de desenvolvimento comunitário que pode ser implementado por seu Clube de Desbravadores (plantio de árvores, limpeza de parques e ruas, pintura de muros, etc.). O plano deve descrever a atividade, o tamanho do grupo, a logística de transporte e materiais e o tempo para completar tal atividade."
+        numero_linhas: 11
+      - texto: "Participar por, pelo menos, 4 horas em uma das seguintes atividades: <ol type='a'><li>O desbravador deverá contatar a Ação Solidária Adventista (ASA) de sua igreja e ver em que poderá ajudar. Talvez seja organizando itens doados ou participando de algum projeto por ela já estabelecido. Poderá envolver-se com a coleta e distribuição de alimentos, cobertores, agasalhos, sapatos e outros bens para moradores de rua ou para famílias cadastradas pela ASA. Ainda, poderá apoiar na reparação ou construção de casas para pessoas carentes.</li><li>O desbravador deverá contatar a ADRA para ver a possibilidade de envolver-se como voluntário em algum projeto que esteja sendo implementado no seu bairro ou município.</li><li>O desbravador deverá envolver-se com um Mutirão Social. O alvo deste tipo de mutirão é proporcionar à população menos favorecida acesso a certos serviços de forma gratuita. Alguns destes serviços são: corte de cabelo, testes rápidos para identificar doenças como sífilis, hepatite e AIDS, aferição de pressão arterial, orientações de saúde e nutrição, palestras educativas sobre como economizar energia e gás, recreação infantil, emissão de documento como carteira de trabalho, encaminhamento para vagas de empregos, entre outros. O mutirão pode ser feito no pátio da igreja, num centro comunitário, num ginásio de esportes ou outro local sugerido e autorizado pelas autoridades locais.</li><li>O desbravador deverá procurar saber o que sua igreja, outras igrejas, o governo ou organizações comunitárias estão fazendo pelos moradores de rua. Caso a comunidade já tenha esse programa, você poderá unir-se a ele.</li></ol><div class='text-center'>(Cole uma foto da atividade realizada no quadro abaixo)</div>"
+        dimensoes:
+          largura: 20
+          altura: 12
 
   # Artes e Habilidades Manuais
 
+  - area: HM
+    codigo: 1
+    nome: Automodelismo
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 2
+    nome: Trabalhos com Agulha
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 3
+    nome: Desenho e Pintura
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 4
+    nome: Música - básico
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 5
+    nome: Música - intermediário
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 6
+    nome: Música - avançado
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 7
+    nome: Letreiros e Cartazes
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 8
+    nome: Cestaria
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 9
+    nome: Trabalhos em Metal
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 10
+    nome: Arte de Oleiro
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 11
+    nome: Entalhe em Madeira
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 12
+    nome: Ornamentação com Flores
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 13
+    nome: Pintura em Vidro
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 14
+    nome: Tecelagem
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 15
+    nome: Trabalhos em Madeira
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 16
+    nome: Aeromodelismo
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 17
+    nome: Cultura Indígena
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 18
+    nome: Escultura
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 19
+    nome: Xilogravura
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 20
+    nome: Cerâmica
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 21
+    nome: Pintura em Tecido
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 22
+    nome: Trabalhos em Feltro
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 23
+    nome: Trabalhos em Acrílico
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 24
+    nome: Modelagem e Fabricação de Sabão
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 25
+    nome: Modelagem e Fabricação de Sabão - avançado
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 26
+    nome: Arte de Fazer Esteiras
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 27
+    nome: Construção Nativa
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 28
+    nome: Ferreomodelismo
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 29
+    nome: Herança Cultural
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 30
+    nome: Lapidação
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 31
+    nome: Modelagem em Gesso
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 32
+    nome: Trabalhos em Couro
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 33
+    nome: Crochê
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 34
+    nome: Crochê - avançado
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 35
+    nome: Espaçomodelismo
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 36
+    nome: Espaçomodelismo - avançado
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 37
+    nome: Tricô
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 38
+    nome: Tricô - avançado
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 39
+    nome: Trabalhos em Vidro
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 40
+    nome: Arte de Trançar
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 41
+    nome: Arte de Trançar - avançado
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 42
+    nome: Decoração de Bolos
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 43
+    nome: Esmaltado em Cobre
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 44
+    nome: Esmaltado em Cobre - avançado
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 45
+    nome: Estofamento
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 46
+    nome: Fabricação de Velas
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 47
+    nome: Serigrafia
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 48
+    nome: Serigrafia - avançado
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 49
+    nome: Arte com Barbante
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 50
+    nome: Decoupage
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 51
+    nome: Macramê
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 52
+    nome: Telhados
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 53
+    nome: Cultura Indígena - avançado
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 54
+    nome: Bordado em Ponto Cruz
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 55
+    nome: Biscuit
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 56
+    nome: Patchwork
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 57
+    nome: Nautimodelismo
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 58
+    nome: Trabalhos em Couro - avançado
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 59
+    nome: Gravuras em Vidro
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 60
+    nome: Origami
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 61
+    nome: Corrida de Carrinhos de Madeira
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 62
+    nome: Corrida de Carrinhos de Madeira - avançado
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 63
+    nome: Scrapbooking
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 64
+    nome: Scrapbooking - avançado
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 65
+    nome: Fotografia Digital
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 66
+    nome: Genealogia
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 67
+    nome: Plástico Canvas
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 68
+    nome: Quilling
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 69
+    nome: Quilling - avançado
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 70
+    nome: Tie-dye
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 71
+    nome: Apitos
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 72
+    nome: Apitos - avançado
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 73
+    nome: Faróis
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 74
+    nome: Faróis - avançado
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 75
+    nome: Balões de Ar Quente
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 76
+    nome: Origami - avançado
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 77
+    nome: Embalagem
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 78
+    nome: E.V.A.
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 79
+    nome: Desenho vetorial
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 80
+    nome: Fuxico
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 81
+    nome: História em Quadrinhos
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 82
+    nome: Ornamentação
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 83
+    nome: Papercraft
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 84
+    nome: Papel Machê
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 85
+    nome: Pirografia
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 86
+    nome: Plastimodelismo
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 87
+    nome: Violão
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 88
+    nome: Violão - avançado
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 89
+    nome: Amigurumi
+    questoes: []
+
+
+
+  - area: HM
+    codigo: 90
+    nome: Arte Digital
+    questoes: []
+
+
+  - area: HM
+    codigo: 91
+    nome: Lettering
+    questoes: []
 
   # Atividades Agrícolas
 
+  
+  - area: AA
+    codigo: 1
+    nome: Avicultura
+    questoes: []
+
+
+
+  - area: AA
+    codigo: 2
+    nome: Jardinagem e Horticultura
+    questoes: []
+
+
+
+  - area: AA
+    codigo: 3
+    nome: Agricultura Familiar de Subsistência
+    questoes: []
+
+
+
+  - area: AA
+    codigo: 4
+    nome: Apicultura
+    questoes: []
+
+
+
+  - area: AA
+    codigo: 5
+    nome: Agricultura
+    questoes: []
+
+
+
+  - area: AA
+    codigo: 6
+    nome: Pescaria
+    questoes: []
+
+
+
+  - area: AA
+    codigo: 7
+    nome: Criação de Gado Leiteiro
+    questoes: []
+
+
+
+  - area: AA
+    codigo: 8
+    nome: Pomicultura
+    questoes: []
+
+
+
+  - area: AA
+    codigo: 9
+    nome: Pomicultura II - Frutas Pequenas
+    questoes: []
+
+
+
+  - area: AA
+    codigo: 10
+    nome: Floricultura
+    questoes: []
+
+
+
+  - area: AA
+    codigo: 11
+    nome: Criação de Cavalos
+    questoes: []
+
+
+
+  - area: AA
+    codigo: 12
+    nome: Criação de Pombos
+    questoes: []
+
+
+
+  - area: AA
+    codigo: 13
+    nome: Criação de Ovelhas
+    questoes: []
+
+
+
+  - area: AA
+    codigo: 14
+    nome: Pecuária
+    questoes: []
+
+
+
+  - area: AA
+    codigo: 15
+    nome: Criação de Cabras
+    questoes: []
+
+
+
+  - area: AA
+    codigo: 16
+    nome: Paisagismo
+    questoes: []
+
 
   # Atividades Missionárias e Comunitárias
-  
+
+  - area: AM
+    codigo: 1
+    nome: Arte de Contar Histórias Cristãs
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 2
+    nome: Arte em Fantoches
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 3
+    nome: Arte em Fantoches - avançado
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 4
+    nome: Etnologia Missionária
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 5
+    nome: Colportagem
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 6
+    nome: Cidadania Cristã
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 7
+    nome: Estudo de Línguas - Avançado
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 8
+    nome: Evangelismo Pessoal
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 9
+    nome: Liderança Juvenil
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 10
+    nome: Testemunho Juvenil
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 11
+    nome: Asseio e Cortesia Cristã
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 12
+    nome: Vida Familiar
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 13
+    nome: Temperança
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 14
+    nome: Língua de Sinais
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 16
+    nome: Aventuras com Cristo
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 17
+    nome: Aventuras com Cristo - avançado
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 18
+    nome: Língua de Sinais - avançado
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 19
+    nome: Marcação Bíblica
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 20
+    nome: Marcação Bíblica - avançado
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 21
+    nome: Pregador Evangelista
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 22
+    nome: Pregador Evangelista - avançado
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 23
+    nome: Santuário
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 24
+    nome: Dramatização Cristã
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 25
+    nome: Desfile com Carros Alegóricos
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 26
+    nome: Desfile com Carros Alegóricos - avançado
+    questoes: []
+
+
+
   - area: AM
     codigo: 27
     nome: Pacificador
@@ -65,6 +1252,126 @@ especialidades:
         dimensoes:
           largura: 20
           altura: 12
+
+
+
+  - area: AM
+    codigo: 28
+    nome: Pacificador - avançado
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 29
+    nome: Adoração Cristã
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 30
+    nome: Arte da Pregação Cristã
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 31
+    nome: Arte da Pregação Cristã - avançado
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 32
+    nome: Arqueologia Bíblica
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 33
+    nome: Cerimônias
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 34
+    nome: Braile
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 35
+    nome: Criacionismo
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 36
+    nome: Criacionismo - avançado
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 37
+    nome: Espírito de Profecia
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 38
+    nome: Escatologia
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 39
+    nome: Historiador Eclesiástico
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 40
+    nome: Evangelismo Web
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 41
+    nome: Evangelismo Web - avançado
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 42
+    nome: Intercessor
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 43
+    nome: Pioneiros Adventistas
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 44
+    nome: Patriotismo
+    questoes: []
+
 
 
   - area: AM
@@ -117,6 +1424,7 @@ especialidades:
           altura: 10
       - texto: "Auxiliar a equipe de sonoplastia da sua Igreja por, ao menos, 1 mês. (Escreva um breve relatório sobre sua experiência)"
         numero_linhas: 5
+
 
 
   - area: AM
@@ -177,6 +1485,42 @@ especialidades:
         numero_linhas: 5
 
 
+
+  - area: AM
+    codigo: 47
+    nome: Investigador Bíblico I
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 48
+    nome: Boa Conduta Escolar
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 49
+    nome: Mensageira de Deus
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 50
+    nome: Estudo de Línguas
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 51
+    nome: Cultura Sul Americana
+    questoes: []
+
+
+
   - area: AM
     codigo: 52
     nome: Apocalipse
@@ -201,6 +1545,14 @@ especialidades:
         numero_linhas: 5
       - texto: "Citar três promessas do Apocalipse relacionadas ao noco Céu e à nova Terra."
         numero_linhas: 3
+
+
+
+  - area: AM
+    codigo: 53
+    nome: Crítico de Mídia
+    questoes: []
+
 
 
   - area: AM
@@ -250,14 +1602,1066 @@ especialidades:
 
 
 
+  - area: AM
+    codigo: 55
+    nome: Educação Inclusiva
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 56
+    nome: Inteligência Emocional
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 57
+    nome: Interpretação Bíblica
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 58
+    nome: Lives - Transmissão de Cultos Online
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 59
+    nome: Parábolas de Jesus
+    questoes: []
+
+
+
+  - area: AM
+    codigo: 60
+    nome: Relacionamentos Saudáveis
+    questoes: []
+
 
   # Ensinos Bíblicos
+  
+  - area: EB
+    codigo: 1
+    nome: Escrituras Sagradas
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 2
+    nome: Trindade
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 3
+    nome: Deus Pai
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 4
+    nome: Deus Filho
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 5
+    nome: Deus Espírito Santo
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 6
+    nome: Criação do Mundo
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 7
+    nome: Natureza da Humanidade
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 8
+    nome: Grande Conflito
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 9
+    nome: Vida, morte e ressureição de Cristo
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 10
+    nome: Experiência da Salvação
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 11
+    nome: Crescimento em Cristo
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 12
+    nome: Igreja
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 13
+    nome: Remanescente e sua Missão
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 14
+    nome: Unidade no Corpo de Cristo
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 15
+    nome: Batismo
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 16
+    nome: Ceia do Senhor
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 17
+    nome: Dons e Ministérios Espirituais
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 18
+    nome: Dom de Profecia
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 19
+    nome: Lei de Deus
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 20
+    nome: Sábado
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 21
+    nome: Mordomia
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 22
+    nome: Conduta Cristã
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 23
+    nome: Matrimônio e Família
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 24
+    nome: Ministério de Cristo no Santuário Celestial
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 25
+    nome: Segunda Vinda de Cristo
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 26
+    nome: Morte e Ressurreição
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 27
+    nome: Milênio e Fim do Pecado
+    questoes: []
+
+
+
+  - area: EB
+    codigo: 28
+    nome: Nova Terra
+    questoes: []
 
 
   # Atividades Profissionais
+  
+  - area: AP
+    codigo: 1
+    nome: Conserto de Sapatos
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 2
+    nome: Fotografia
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 3
+    nome: Mecânica Automotiva
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 4
+    nome: Radioamadorismo
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 5
+    nome: Datilografia
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 6
+    nome: Eletricidade
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 7
+    nome: Carpintaria
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 8
+    nome: Corte e Costura
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 9
+    nome: Taquigrafia
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 10
+    nome: Tipografia
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 11
+    nome: Marcenaria
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 12
+    nome: Encadernação
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 13
+    nome: Alvenaria
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 14
+    nome: Barbearia
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 15
+    nome: Colocação de Papel de Parede
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 16
+    nome: Contabilidade
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 17
+    nome: Evangelismo
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 18
+    nome: Hidráulica
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 19
+    nome: Jornalismo
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 20
+    nome: Ofício de Alfaiate
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 21
+    nome: Pintura de Paredes Exteriores
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 22
+    nome: Pintura de Paredes Interiores
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 23
+    nome: Radioeletrônica
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 24
+    nome: Magistério
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 25
+    nome: Corte e Costura - avançado
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 26
+    nome: Radioamadorismo - avançado
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 27
+    nome: Mecânica Automotiva - avançado
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 28
+    nome: Mecânica de Pequenos Motores
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 29
+    nome: Cães - Cuidado e Treinamento
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 30
+    nome: Serviço Rádio do Cidadão
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 31
+    nome: Soldagem
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 32
+    nome: Produção de Vídeo
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 33
+    nome: Vendas
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 34
+    nome: Internet
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 35
+    nome: Internet - avançado
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 36
+    nome: Silvicultura
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 37
+    nome: Administração
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 38
+    nome: Bandeiras Náuticas
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 39
+    nome: Blogs
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 40
+    nome: Biblioteconomia
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 41
+    nome: Computação I - básico
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 42
+    nome: Computação II - médio
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 43
+    nome: Computação III - regular
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 44
+    nome: Computação IV - avançado
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 45
+    nome: Computação V - especialista
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 46
+    nome: Código Semafórico
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 47
+    nome: Código Morse
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 48
+    nome: Cuidados e Manutenção de Violões
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 49
+    nome: Desenvolvimento de Software
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 50
+    nome: Eletrônica
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 51
+    nome: Intérprete de Língua de Sinais
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 52
+    nome: Informática Programável
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 53
+    nome: Manutenção de Bicicletas
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 54
+    nome: Marketing
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 55
+    nome: Marketing - avançado
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 56
+    nome: Modelagem Têxtil
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 57
+    nome: Montagem e Manutenção de Computadores
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 58
+    nome: Noções de Economia
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 59
+    nome: Operação e Manutenção de Impressoras
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 60
+    nome: Restauro e Conservação Documental
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 61
+    nome: Secretariado
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 62
+    nome: Torno Mecânico
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 63
+    nome: Web Designer
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 64
+    nome: Web Designer - avançado
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 65
+    nome: Logística
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 66
+    nome: Noções de Direito
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 67
+    nome: Segurança Nas Redes Sociais
+    questoes: []
+
+
+
+  - area: AP
+    codigo: 68
+    nome: Segurança Contra Incêndios
+    questoes: []
 
 
   # Atividades Recreativas
+
+  
+  - area: AR
+    codigo: 1
+    nome: Arte de Acampar
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 2
+    nome: Cultura Física
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 3
+    nome: Natação Principiante I
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 4
+    nome: Natação Principiante II
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 5
+    nome: Natação Intermediário I
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 6
+    nome: Natação Intermediário II
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 7
+    nome: Natação - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 8
+    nome: Salvamento de Afogados
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 9
+    nome: Ciclismo
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 10
+    nome: Excursionismo Pedestre
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 11
+    nome: Filatelia
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 12
+    nome: Filatelia - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 13
+    nome: Esqui Downhill
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 14
+    nome: Arco e Flecha
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 15
+    nome: Caiaque
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 16
+    nome: Canoagem
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 17
+    nome: Numismática
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 18
+    nome: Navegação
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 19
+    nome: Vela
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 20
+    nome: Fogueiras e Cozinha ao Ar Livre
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 21
+    nome: Mapa e Bússola
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 22
+    nome: Pioneirismo
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 23
+    nome: Remo
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 24
+    nome: Vida Silvestre
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 25
+    nome: Equitação
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 26
+    nome: Esqui Aquático
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 27
+    nome: Esqui Aquático - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 28
+    nome: Mergulho Livre
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 29
+    nome: Salvamento de Afogados - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 30
+    nome: Saltos Ornamentais
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 31
+    nome: Mergulho Autônomo
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 32
+    nome: Mergulho Autônomo - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 33
+    nome: Acampamento em Baixas Temperaturas
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 34
+    nome: Escalada
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 35
+    nome: Escalada - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 36
+    nome: Escalada em Árvores
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 37
+    nome: Exploração de Cavernas
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 38
+    nome: Exploração de Cavernas - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 39
+    nome: Barco a Motor
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 40
+    nome: Nós e Amarras
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 41
+    nome: Arco e Flecha - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 42
+    nome: Ciclismo - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 43
+    nome: Ginástica Acrobática
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 44
+    nome: Ginástica Acrobática - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 45
+    nome: Liderança na Selva
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 46
+    nome: Liderança na Selva - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 47
+    nome: Ordem Unida
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 48
+    nome: Ordem Unida - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 49
+    nome: Atletismo
+    questoes: []
+
+
 
   - area: AR
     codigo: 50
@@ -304,7 +2708,7 @@ especialidades:
               largura: 19
               altura: 10
       - texto: "Saber usar corretamente um canivete e uma machadinha. Conhecer e demonstrar regras de segurança no uso destas ferramentas."
-        numero_linhas: 3
+        numero_linhas: 5
 
 
   - area: AR
@@ -442,6 +2846,28 @@ especialidades:
           altura: 15
 
 
+
+  - area: AR
+    codigo: 54
+    nome: Esqui Cross Country
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 55
+    nome: Excursionismo Pedestre - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 56
+    nome: Excursionismo Pedestre com Mochila
+    questoes: []
+
+
+
   - area: AR
     codigo: 57
     nome: Liderança Campestre
@@ -486,11 +2912,299 @@ especialidades:
             numero_linhas: 3
 
 
+
+  - area: AR
+    codigo: 58
+    nome: Liderança Campestre - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 59
+    nome: Pipas
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 60
+    nome: Skate
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 61
+    nome: Windsurf
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 62
+    nome: Numismática - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 63
+    nome: Mountain Biking
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 64
+    nome: Basquete
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 65
+    nome: Futebol
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 66
+    nome: Equitação - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 67
+    nome: Geocaching
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 68
+    nome: Geocaching - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 69
+    nome: Construção de Canoas
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 70
+    nome: Cozinha com Forno Holandês
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 71
+    nome: Fanfarra
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 72
+    nome: Rapel
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 73
+    nome: Rapel - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 74
+    nome: Rapel - instrutor
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 75
+    nome: Triathlon
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 76
+    nome: Triathlon - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 77
+    nome: Telecartofilia
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 78
+    nome: Telecartofilia - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 79
+    nome: Wakeboard
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 80
+    nome: Softbol
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 81
+    nome: Letterboxing
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 82
+    nome: Letterboxing - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 83
+    nome: Monociclo
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 84
+    nome: Acampamento Seguro
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 85
+    nome: Acampamento Seguro - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 86
+    nome: Viagem e Turismo
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 87
+    nome: Viagem e Turismo - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 88
+    nome: Excursionismo Pedestre na Neve
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 89
+    nome: Excursionismo Pedestre na Neve - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 90
+    nome: Segurança Básica na Água
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 91
+    nome: Boliche
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 92
+    nome: Carrinho de Rolimã
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 93
+    nome: Colecionador
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 94
+    nome: Esportes Adaptados
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 95
+    nome: Excursionismo Pedestre com Mochila - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 96
+    nome: Futebol de Botão
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 97
+    nome: Futsal
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 98
+    nome: Handebol
+    questoes: []
+
+
+
   - area: AR
     codigo: 99
     nome: Nós e Amarras - Avançado
     questoes:
-      - texto: "Ter a especialidade de Nós e Amarras. (Cole o certificado da classe no quadro abaixo)"
+      - texto: "Ter a especialidade de Nós e Amarras. (Cole o certificado da especialidade no quadro abaixo)"
         dimensoes:
           largura: 20
           altura: 9
@@ -517,6 +3231,14 @@ especialidades:
         dimensoes:
           largura: 19
           altura: 12
+
+
+
+  - area: AR
+    codigo: 100
+    nome: Ordem Unida - instrutor
+    questoes: []
+
 
 
   - area: AR
@@ -555,6 +3277,119 @@ especialidades:
         dimensoes:
           largura: 6.5
           altura: 8
+
+
+
+  - area: AR
+    codigo: 102
+    nome: Pioneirias - avançado
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 103
+    nome: Patins
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 104
+    nome: Orientação com GPS
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 105
+    nome: Rafting
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 106
+    nome: Pião
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 107
+    nome: Tênis de Mesa
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 108
+    nome: Vôlei
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 109
+    nome: Waveboarding
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 110
+    nome: Evolução em Ordem Unida
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 111
+    nome: Campori Seguro
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 112
+    nome: Acampamento Consciente
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 113
+    nome: Artes Mateiras
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 114
+    nome: Bolinha de Gude
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 115
+    nome: Comida Mateira
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 116
+    nome: Construções Rústicas de Grande Porte
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 117
+    nome: Cozinha Segura
+    questoes: []
+
 
 
   - area: AR
@@ -596,16 +3431,635 @@ especialidades:
         numero_linhas: 0
         numero_linhas_transparentes: 1
       - texto: "Demonstrar como limpar e lubrificar um cubo de Rubik."
-        numero_linhas: 5      
+        numero_linhas: 5
 
 
 
+  - area: AR
+    codigo: 119
+    nome: Slackline
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 120
+    nome: Trilha de Sinais
+    questoes: []
+
+
+
+  - area: AR
+    codigo: 121
+    nome: Troca de Pins
+    questoes: []
 
 
   # Ciência e Saúde
 
+  
+  - area: CS
+    codigo: 1
+    nome: Saúde e Cura
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 2
+    nome: Química
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 3
+    nome: Primeiros Socorros - básico
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 4
+    nome: Primeiros Socorros - intermediário
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 5
+    nome: Primeiros Socorros - avançado
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 6
+    nome: Enfermagem Básica
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 7
+    nome: Ótica
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 8
+    nome: Nutrição
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 9
+    nome: Alerta Vermelho
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 10
+    nome: Nutrição - avançado
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 11
+    nome: Reanimação Cardiopulmonar
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 12
+    nome: Resgate Básico
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 13
+    nome: Física
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 14
+    nome: Microscopia
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 15
+    nome: Digestão
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 16
+    nome: Ossos, Músculos e Articulações
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 17
+    nome: Sistema Nervoso
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 18
+    nome: Sangue e Defesas do Corpo
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 19
+    nome: Hereditariedade
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 20
+    nome: Coração e Circulação
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 21
+    nome: Bioquímica
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 22
+    nome: Bioquímica - avançado
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 23
+    nome: Higiene Oral
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 24
+    nome: Higiene Oral - avançado
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 25
+    nome: Metodologia de Estudo
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 26
+    nome: Prevenção de Doenças Tropicais
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 27
+    nome: Patrimônio Histórico
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 28
+    nome: Saúde Mental
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 29
+    nome: Sexualidade Humana
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 30
+    nome: Sistema Respiratório
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 31
+    nome: Habilidades em Matemática I
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 32
+    nome: Habilidades em Matemática II
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 33
+    nome: Habilidades em Matemática III
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 34
+    nome: Habilidades em Matemática IV
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 35
+    nome: Biossegurança
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 36
+    nome: Anatomia Humana Básica
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 37
+    nome: Cientistas Cristãos
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 38
+    nome: Experimentos Científicos
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 39
+    nome: Plantas Medicinais
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 40
+    nome: Remédios da Natureza
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 41
+    nome: Trânsito Seguro
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 42
+    nome: Vacinas
+    questoes: []
+
+
+
+  - area: CS
+    codigo: 43
+    nome: Zoonoses
+    questoes: []
 
   # Estudos da Natureza
+
+  
+  - area: EN
+    codigo: 1
+    nome: Aranhas
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 2
+    nome: Astronomia
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 3
+    nome: Aves
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 4
+    nome: Aves Domésticas
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 5
+    nome: Flores
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 6
+    nome: Árvores
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 7
+    nome: Insetos
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 8
+    nome: Mariposas e Borboletas
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 9
+    nome: Fungos
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 10
+    nome: Mamíferos
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 11
+    nome: Répteis
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 12
+    nome: Rochas e minerais
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 13
+    nome: Rochas e Minerais - avançado
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 14
+    nome: Moluscos
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 15
+    nome: Cactos
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 16
+    nome: Climatologia
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 17
+    nome: Fósseis
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 18
+    nome: Samambaias
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 19
+    nome: Arbustos
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 20
+    nome: Aves de Estimação
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 21
+    nome: Gramíneas
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 22
+    nome: Peixes
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 23
+    nome: Anfíbios
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 24
+    nome: Felinos
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 25
+    nome: Rebanhos Domésticos
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 26
+    nome: Astronomia - avançado
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 27
+    nome: Aves - avançado
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 28
+    nome: Climatologia - avançado
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 29
+    nome: Flores - avançado
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 30
+    nome: Insetos - avançado
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 31
+    nome: Mamíferos - avançado
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 32
+    nome: Moluscos - avançado
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 33
+    nome: Árvores - avançado
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 34
+    nome: Cães
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 35
+    nome: Areia
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 36
+    nome: Algas
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 37
+    nome: Cetáceos
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 38
+    nome: Ervas
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 39
+    nome: Eucaliptos
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 40
+    nome: Sementes
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 41
+    nome: Sementes - avançado
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 42
+    nome: Orquídeas
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 43
+    nome: Plantas Silvestres Comestíveis
+    questoes: []
+
+
 
   - area: EN
     codigo: 44
@@ -666,7 +4120,483 @@ especialidades:
 
 
 
+  - area: EN
+    codigo: 45
+    nome: Ecologia - avançado
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 46
+    nome: Conservação Ambiental
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 47
+    nome: Geologia
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 48
+    nome: Geologia - avançado
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 49
+    nome: Plantas Caseiras
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 50
+    nome: Rastreio de Animais
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 51
+    nome: Mamíferos Marinhos
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 52
+    nome: Pequenos Mamíferos de Estimação
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 53
+    nome: Cactos - avançado
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 54
+    nome: Anfíbios - avançado
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 55
+    nome: Felinos - avançado
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 56
+    nome: Rastreio de Animais - avançado
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 57
+    nome: Répteis - avançado
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 58
+    nome: Animais Ameaçados de Extinção
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 59
+    nome: Morcegos
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 60
+    nome: Morcegos - avançado
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 61
+    nome: Marsupiais
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 62
+    nome: Orquídeas - avançado
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 63
+    nome: Palmeiras
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 64
+    nome: Solos
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 65
+    nome: Vermes
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 66
+    nome: Vermes - avançado
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 67
+    nome: Quedas d'água
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 68
+    nome: Aquarismo
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 69
+    nome: Animais Peçonhentos
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 70
+    nome: Animais Noturnos
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 71
+    nome: Animais Nocivos
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 72
+    nome: Arbustos - avançado
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 73
+    nome: Araras, Papagaios e Periquitos
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 74
+    nome: Briófitas
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 75
+    nome: Bactérias
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 76
+    nome: Camelos
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 77
+    nome: Citologia
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 78
+    nome: Crustáceos
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 79
+    nome: Dinossauros
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 80
+    nome: Equinodermos
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 81
+    nome: Energias Renováveis
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 82
+    nome: Estuário
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 83
+    nome: Fauna Marinha
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 84
+    nome: Fisiologia Vegetal
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 85
+    nome: Formigas
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 86
+    nome: Liquens
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 87
+    nome: Odonata
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 88
+    nome: Plantas Carnívoras
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 89
+    nome: Preservação de Recursos Hídricos
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 90
+    nome: Poríferos e Cnidários
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 91
+    nome: Protozoários
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 92
+    nome: Reciclagem e Sustentabilidade
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 93
+    nome: Reciclagem e Sustentabilidade - avançado
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 94
+    nome: Tubarões
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 95
+    nome: Vírus
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 96
+    nome: Abelhas e Vespas
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 97
+    nome: Animais Migratórios
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 98
+    nome: Aves de Rapina
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 99
+    nome: Ciência Planetária
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 100
+    nome: Cigarras
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 101
+    nome: Compostagem Doméstica
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 102
+    nome: Mimetismo e Camuflagem
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 103
+    nome: Peixes Ornamentais
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 104
+    nome: Primatas
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 105
+    nome: Quelônios
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 106
+    nome: Vulcões
+    questoes: []
+
+
+
+  - area: EN
+    codigo: 107
+    nome: Bromélias
+    questoes: []
+
+
   # Habilidades Domésticas
+
+  
+  - area: HD
+    codigo: 1
+    nome: Arte Culinária
+    questoes: []
+
+
+
+  - area: HD
+    codigo: 2
+    nome: Técnicas de Lavanderia
+    questoes: []
+
+
+
+  - area: HD
+    codigo: 3
+    nome: Cuidado de Bebês
+    questoes: []
+
+
+
+  - area: HD
+    codigo: 4
+    nome: Cuidados da Casa
+    questoes: []
+
+
+
+  - area: HD
+    codigo: 5
+    nome: Técnicas de Fazer Conserva
+    questoes: []
+
+
 
   - area: HD
     codigo: 6
@@ -716,4 +4646,49 @@ especialidades:
 
 
 
-  # Mestrados
+  - area: HD
+    codigo: 7
+    nome: Panificação
+    questoes: []
+
+
+
+  - area: HD
+    codigo: 8
+    nome: Arte Culinária - avançado
+    questoes: []
+
+
+
+  - area: HD
+    codigo: 9
+    nome: Costura Básica
+    questoes: []
+
+
+
+  - area: HD
+    codigo: 10
+    nome: Comidas Típicas
+    questoes: []
+
+
+
+  - area: HD
+    codigo: 11
+    nome: Congelamento de Alimentos
+    questoes: []
+
+
+
+  - area: HD
+    codigo: 12
+    nome: Desidratação de Alimentos
+    questoes: []
+
+
+
+  - area: HD
+    codigo: 13
+    nome: Produção de Pizza
+    questoes: []

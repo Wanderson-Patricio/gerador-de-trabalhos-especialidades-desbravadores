@@ -2,6 +2,12 @@
 
 Uma aplicação intuitiva para consultar, visualizar e gerar especialidades dos desbravadores em formato PDF.
 
+## Pré Requisitos
+
+- É necessário ter o ***Python*** na versão ***3*** (ou superior) instalado no seu computador.
+
+Você pode ver o guia de instalação do python em seu site oficial ([python.org](https://python.org.br/instalacao-windows/)).
+
 ## 📖 Documentação
 
 - **👤 [Guia do Usuário](./GUIA_USUARIO.md)**
@@ -9,8 +15,8 @@ Uma aplicação intuitiva para consultar, visualizar e gerar especialidades dos 
 
 ## 🚀 Início Rápido
 
-Execute o arquivo `start.bat` ou digite:
+Execute o arquivo `inicializar.bat` ou digite:
 ```bash
-python main.py
+py main.py
 ```
 

@@ -1,2 +1,6 @@
-is_test: true
+is_test: false
 reader_type: yaml
+remote_repository:
+  user: Wanderson-Patricio
+  repository_name: gerador-de-trabalhos-especialidades-desbravadores
+  folder: data
